@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "tt0362359",
+    "type": "series",
+    "name": "The O.C.",
+    "videos": [
+      { "id": "tt0362359:s01e13", "season": 1, "episode": 13, "title": "The Best Chrismukkah Ever" },
+      { "id": "tt0362359:s02e06", "season": 2, "episode": 6, "title": "The Chrismukkah That Almost Wasn't" },
+      { "id": "tt0362359:s03e10", "season": 3, "episode": 10, "title": "The Chrismukkah Bar Mitz-vahkkah" },
+      { "id": "tt0362359:s04e07", "season": 4, "episode": 7, "title": "The Chrismukk-huh?" }
+    ]
+  }
+}

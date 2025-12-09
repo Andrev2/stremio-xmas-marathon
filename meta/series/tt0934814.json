@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "id": "tt0934814",
+    "type": "series",
+    "name": "Chuck",
+    "videos": [
+      { "id": "tt0934814:s02e11", "season": 2, "episode": 11, "title": "Chuck vs. Santa Claus" },
+      { "id": "tt0934814:s05e07", "season": 5, "episode": 7, "title": "Chuck vs. the Santa Suit" }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "tt1442437",
+    "type": "series",
+    "name": "Modern Family",
+    "videos": [
+      { "id": "tt1442437:s01e10", "season": 1, "episode": 10, "title": "Undeck the Halls" },
+      { "id": "tt1442437:s03e10", "season": 3, "episode": 10, "title": "Express Christmas" },
+      { "id": "tt1442437:s07e09", "season": 7, "episode": 9, "title": "White Christmas" },
+      { "id": "tt1442437:s11e09", "season": 11, "episode": 9, "title": "The Last Christmas" }
+    ]
+  }
+}

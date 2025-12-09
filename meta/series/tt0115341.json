@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tt0115341",
+    "type": "series",
+    "name": "Sabrina the Teenage Witch",
+    "videos": [
+      { "id": "tt0115341:s01e11", "season": 1, "episode": 11, "title": "A Girl and Her Cat" },
+      { "id": "tt0115341:s03e11", "season": 3, "episode": 11, "title": "Christmas Amnesia" },
+      { "id": "tt0115341:s04e11", "season": 4, "episode": 11, "title": "Salem's World" }
+    ]
+  }
+}

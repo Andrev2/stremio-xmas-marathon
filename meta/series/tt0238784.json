@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "tt0238784",
+    "type": "series",
+    "name": "Gilmore Girls",
+    "videos": [
+      { "id": "tt0238784:s01e10", "season": 1, "episode": 10, "title": "Forgiveness and Stuff" },
+      { "id": "tt0238784:s02e10", "season": 2, "episode": 10, "title": "The Bracebridge Dinner" },
+      { "id": "tt0238784:s03e10", "season": 3, "episode": 10, "title": "That'll Do, Pig" },
+      { "id": "tt0238784:s07e09", "season": 7, "episode": 9, "title": "Knit, People, Knit!" }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tt0285351",
+    "type": "series",
+    "name": "According to Jim",
+    "videos": [
+      { "id": "tt0285351:s01e10", "season": 1, "episode": 10, "title": "An According to Jiminy Christmas" },
+      { "id": "tt0285351:s02e10", "season": 2, "episode": 10, "title": "The Christmas Party" },
+      { "id": "tt0285351:s03e11", "season": 3, "episode": 11, "title": "Sleepless in Chicago" },
+      { "id": "tt0285351:s04e11", "season": 4, "episode": 11, "title": "Meanwhile, Back on the Boulevard" },
+      { "id": "tt0285351:s08e04", "season": 8, "episode": 4, "title": "The Meaningful Gift" }
+    ]
+  }
+}

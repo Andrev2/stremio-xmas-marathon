@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tt0273855",
+    "type": "series",
+    "name": "My Wife and Kids",
+    "videos": [
+      { "id": "tt0273855:s02e10", "season": 2, "episode": 10, "title": "Miracle on Dead Street" },
+      { "id": "tt0273855:s04e12", "season": 4, "episode": 12, "title": "While Out of Town (Part 1)" },
+      { "id": "tt0273855:s04e13", "season": 4, "episode": 13, "title": "While Out of Town (Part 2)" }
+    ]
+  }
+}

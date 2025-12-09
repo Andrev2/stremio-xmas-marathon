@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tt1826940",
+    "type": "series",
+    "name": "New Girl",
+    "videos": [
+      { "id": "tt1826940:s02e11", "season": 2, "episode": 11, "title": "Santa" },
+      { "id": "tt1826940:s04e11", "season": 4, "episode": 11, "title": "LAXmas" },
+      { "id": "tt1826940:s06e10", "season": 6, "episode": 10, "title": "Christmas Eve Eve" }
+    ]
+  }
+}

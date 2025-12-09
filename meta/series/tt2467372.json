@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tt2467372",
+    "type": "series",
+    "name": "Brooklyn Nine-Nine",
+    "videos": [
+      { "id": "tt2467372:s01e11", "season": 1, "episode": 11, "title": "Christmas" },
+      { "id": "tt2467372:s02e10", "season": 2, "episode": 10, "title": "The Pontiac Bandit Returns" },
+      { "id": "tt2467372:s03e10", "season": 3, "episode": 10, "title": "Yippie Kayak" }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "id": "tt8879940",
+    "type": "series",
+    "name": "Mythic Quest",
+    "videos": [
+      { "id": "tt8879940:special1", "season": 0, "episode": 1, "title": "Everlight" },
+      { "id": "tt8879940:special2", "season": 0, "episode": 2, "title": "Merry Mythic Questmas" }
+    ]
+  }
+}

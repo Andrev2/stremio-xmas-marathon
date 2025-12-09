@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "id": "tt0212671",
+    "type": "series",
+    "name": "Malcolm in the Middle",
+    "videos": [
+      { "id": "tt0212671:s03e07", "season": 3, "episode": 7, "title": "Christmas" },
+      { "id": "tt0212671:s05e07", "season": 5, "episode": 7, "title": "Christmas Trees" }
+    ]
+  }
+}
