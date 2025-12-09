@@ -6,7 +6,7 @@
   "logo": "https://raw.githack.com/Andrev2/stremio-xmas-marathon/main/assets/logo.png",
   "resources": ["catalog", "meta"],
   "types": ["series"],
-  "idPrefixes": ["tt"],
+  "idPrefixes": ["xmas-tt"],
   "catalogs": [
     {
       "type": "series",

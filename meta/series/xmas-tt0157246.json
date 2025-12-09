@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "xmas-tt0157246",
+    "type": "series",
+    "name": "Will & Grace",
+    "imdb_id": "tt0157246",
+    "poster": "https://images.metahub.space/poster/medium/tt0157246/img",
+    "videos": [
+      { "id": "xmas-tt0157246:s04e12", "season": 4, "episode": 12, "title": "Jingle Balls" },
+      { "id": "xmas-tt0157246:s05e11", "season": 5, "episode": 11, "title": "All About Christmas Eve" },
+      { "id": "xmas-tt0157246:s07e10", "season": 7, "episode": 10, "title": "Christmas Break" },
+      { "id": "xmas-tt0157246:s08e09", "season": 8, "episode": 9, "title": "A Little Christmas Queer" }
+    ]
+  }
+}

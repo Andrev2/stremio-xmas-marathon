@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "xmas-tt0285403",
+    "type": "series",
+    "name": "Scrubs",
+    "imdb_id": "tt0285403",
+    "poster": "https://images.metahub.space/poster/medium/tt0285403/img",
+    "videos": [
+      { "id": "xmas-tt0285403:s01e11", "season": 1, "episode": 11, "title": "My Own Personal Jesus" },
+      { "id": "xmas-tt0285403:s04e10", "season": 4, "episode": 10, "title": "My Female Trouble" },
+      { "id": "xmas-tt0285403:s06e10", "season": 6, "episode": 10, "title": "My Missed Diagnosis" }
+    ]
+  }
+}

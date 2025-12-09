@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "xmas-tt0898266",
+    "type": "series",
+    "name": "The Big Bang Theory",
+    "imdb_id": "tt0898266",
+    "poster": "https://images.metahub.space/poster/medium/tt0898266/img",
+    "videos": [
+      { "id": "xmas-tt0898266:s02e11", "season": 2, "episode": 11, "title": "The Bath Item Gift Hypothesis" },
+      { "id": "xmas-tt0898266:s03e11", "season": 3, "episode": 11, "title": "The Maternal Congruence" },
+      { "id": "xmas-tt0898266:s06e11", "season": 6, "episode": 11, "title": "The Santa Simulation" }
+    ]
+  }
+}

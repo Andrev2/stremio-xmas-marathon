@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "xmas-tt0273855",
+    "type": "series",
+    "name": "My Wife and Kids",
+    "imdb_id": "tt0273855",
+    "poster": "https://images.metahub.space/poster/medium/tt0273855/img",
+    "videos": [
+      { "id": "xmas-tt0273855:s02e10", "season": 2, "episode": 10, "title": "Miracle on Dead Street" },
+      { "id": "xmas-tt0273855:s04e12", "season": 4, "episode": 12, "title": "While Out of Town (Part 1)" },
+      { "id": "xmas-tt0273855:s04e13", "season": 4, "episode": 13, "title": "While Out of Town (Part 2)" }
+    ]
+  }
+}

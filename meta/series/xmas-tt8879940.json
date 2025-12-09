@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "xmas-tt8879940",
+    "type": "series",
+    "name": "Mythic Quest",
+    "imdb_id": "tt8879940",
+    "poster": "https://images.metahub.space/poster/medium/tt8879940/img",
+    "videos": [
+      { "id": "xmas-tt8879940:special1", "season": 0, "episode": 1, "title": "Everlight" },
+      { "id": "xmas-tt8879940:special2", "season": 0, "episode": 2, "title": "Merry Mythic Questmas" }
+    ]
+  }
+}

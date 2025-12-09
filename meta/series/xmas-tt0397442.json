@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "xmas-tt0397442",
+    "type": "series",
+    "name": "Gossip Girl",
+    "imdb_id": "tt0397442",
+    "poster": "https://images.metahub.space/poster/medium/tt0397442/img",
+    "videos": [
+      { "id": "xmas-tt0397442:s01e11", "season": 1, "episode": 11, "title": "Roman Holiday" },
+      { "id": "xmas-tt0397442:s02e12", "season": 2, "episode": 12, "title": "It's a Wonderful Lie" },
+      { "id": "xmas-tt0397442:s03e12", "season": 3, "episode": 12, "title": "The Debarted" }
+    ]
+  }
+}

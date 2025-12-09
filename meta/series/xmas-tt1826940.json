@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "xmas-tt1826940",
+    "type": "series",
+    "name": "New Girl",
+    "imdb_id": "tt1826940",
+    "poster": "https://images.metahub.space/poster/medium/tt1826940/img",
+    "videos": [
+      { "id": "xmas-tt1826940:s02e11", "season": 2, "episode": 11, "title": "Santa" },
+      { "id": "xmas-tt1826940:s04e11", "season": 4, "episode": 11, "title": "LAXmas" },
+      { "id": "xmas-tt1826940:s06e10", "season": 6, "episode": 10, "title": "Christmas Eve Eve" }
+    ]
+  }
+}
