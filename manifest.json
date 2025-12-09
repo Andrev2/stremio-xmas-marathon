@@ -2,7 +2,7 @@
   "id": "net.andrev2.xmasmarathon",
   "version": "1.0.0",
   "name": "Christmas Sitcom Marathon",
-  "description": "Catalogo di tutte le serie con le puntate di Natale che hai selezionato.",
+  "description": "Catalog of all Christmas episodes from sitcoms (and more).",
   "logo": "https://raw.githack.com/Andrev2/stremio-xmas-marathon/main/assets/logo.png",
   "resources": ["catalog", "meta"],
   "types": ["series"],
@@ -16,6 +16,6 @@
   ],
   "stremioAddonsConfig": {
     "issuer": "https://stremio-addons.net",
-    "signature": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..wUhNEDkDUhQsAlOxVi3oog.ax4zSld6xm2MC3z6Cfq9mkvj0lAckbZJMzl0kLKJsmqOw_1QoIqePPYTNv7Uo3gPQtyzKL5oG5Lsb1Yk7rS7kB5_FC2prifd6a7gMi22R2bQrfGhYiRoS6b10DDeRkd3.pSAInvpOj4zdznHfdIlm7g"
+    "signature": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..2YAE5t_RBhkdIenzUETsrA.LUjJaDIkah7jKbWFnFYrY2c2fNfEpd5B-ILUsMPrqJM4OER94VMArF1vL4Ia_0RCy2QKrR9PPzStdB_v-e5sY-BpNImj5VAEezpHrlBKttBoDQjG_IzbQVj3nN9FDIpT.Gjq3-_L-L5VvJJNf0YMM8g"
   }
 }
