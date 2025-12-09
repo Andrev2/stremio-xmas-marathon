@@ -4,13 +4,7 @@
   "name": "Christmas Sitcom Marathon",
   "description": "Catalogo di tutte le serie con le puntate di Natale che hai selezionato.",
   "logo": "https://stremio-addons.net/assets/img/logo.png",
-  "resources": [
-    {
-      "name": "catalog",
-      "types": ["series"],
-      "idPrefixes": ["tt"]
-    }
-  ],
+  "resources": ["catalog"],
   "types": ["series"],
   "idPrefixes": ["tt"],
   "catalogs": [
