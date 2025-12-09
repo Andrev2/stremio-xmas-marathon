@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "name": "Christmas Sitcom Marathon",
   "description": "Catalog of all Christmas episodes from sitcoms (and more).",
-  "logo": "https://raw.githack.com/Andrev2/stremio-xmas-marathon/main/assets/logo.png",
+  "logo": "https://cdn.jsdelivr.net/gh/Andrev2/stremio-xmas-marathon@main/assets/logo.png",
   "resources": ["catalog", "meta"],
   "types": ["series"],
   "idPrefixes": ["xmas-tt"],
