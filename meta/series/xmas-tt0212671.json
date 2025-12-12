@@ -7,7 +7,8 @@
     "background": "https://images.metahub.space/background/medium/tt0212671/img",
     "videos": [
       { "id": "tt0212671:3:7", "season": 3, "episode": 7, "title": "Christmas", "thumbnail": "https://episodes.metahub.space/tt0212671/3/7/w780.jpg" },
-      { "id": "tt0212671:5:7", "season": 5, "episode": 7, "title": "Christmas Trees", "thumbnail": "https://episodes.metahub.space/tt0212671/5/7/w780.jpg" }
+      { "id": "tt0212671:5:7", "season": 5, "episode": 7, "title": "Christmas Trees", "thumbnail": "https://episodes.metahub.space/tt0212671/5/7/w780.jpg" },
+      { "id": "tt0212671:6:6", "season": 6, "episode": 6, "title": "Hal's Christmas Gift", "thumbnail": "https://episodes.metahub.space/tt0212671/6/6/w780.jpg" }
     ]
   }
 }
