@@ -3,12 +3,12 @@
     "id": "xmas-tt2467372",
     "type": "series",
     "name": "Brooklyn Nine-Nine",
-    "imdb_id": "tt2467372",
     "poster": "https://images.metahub.space/poster/medium/tt2467372/img",
+    "background": "https://images.metahub.space/background/medium/tt2467372/img",
     "videos": [
-      { "id": "xmas-tt2467372:s01e11", "season": 1, "episode": 11, "title": "Christmas" },
-      { "id": "xmas-tt2467372:s02e10", "season": 2, "episode": 10, "title": "The Pontiac Bandit Returns" },
-      { "id": "xmas-tt2467372:s03e10", "season": 3, "episode": 10, "title": "Yippie Kayak" }
+      { "id": "tt2467372:1:11", "season": 1, "episode": 11, "title": "Christmas", "thumbnail": "https://episodes.metahub.space/tt2467372/1/11/w780.jpg" },
+      { "id": "tt2467372:2:10", "season": 2, "episode": 10, "title": "The Pontiac Bandit Returns", "thumbnail": "https://episodes.metahub.space/tt2467372/2/10/w780.jpg" },
+      { "id": "tt2467372:3:10", "season": 3, "episode": 10, "title": "Yippie Kayak", "thumbnail": "https://episodes.metahub.space/tt2467372/3/10/w780.jpg" }
     ]
   }
 }

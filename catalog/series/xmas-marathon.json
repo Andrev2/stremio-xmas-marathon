@@ -1,23 +1,116 @@
-{
-  "metas": [
-    { "id": "xmas-tt0460649", "type": "series", "name": "How I Met Your Mother" },
-    { "id": "xmas-tt1826940", "type": "series", "name": "New Girl" },
-    { "id": "xmas-tt0397442", "type": "series", "name": "Gossip Girl" },
-    { "id": "xmas-tt0273855", "type": "series", "name": "My Wife and Kids" },
-    { "id": "xmas-tt0285351", "type": "series", "name": "According to Jim" },
-    { "id": "xmas-tt0386676", "type": "series", "name": "The Office (US)" },
-    { "id": "xmas-tt0898266", "type": "series", "name": "The Big Bang Theory" },
-    { "id": "xmas-tt1442437", "type": "series", "name": "Modern Family" },
-    { "id": "xmas-tt0108778", "type": "series", "name": "Friends" },
-    { "id": "xmas-tt0285403", "type": "series", "name": "Scrubs" },
-    { "id": "xmas-tt0362359", "type": "series", "name": "The O.C." },
-    { "id": "xmas-tt0106080", "type": "series", "name": "The Nanny" },
-    { "id": "xmas-tt0157246", "type": "series", "name": "Will & Grace" },
-    { "id": "xmas-tt0212671", "type": "series", "name": "Malcolm in the Middle" },
-    { "id": "xmas-tt0115341", "type": "series", "name": "Sabrina the Teenage Witch" },
-    { "id": "xmas-tt0238784", "type": "series", "name": "Gilmore Girls" },
-    { "id": "xmas-tt8879940", "type": "series", "name": "Mythic Quest" },
-    { "id": "xmas-tt0934814", "type": "series", "name": "Chuck" },
-    { "id": "xmas-tt2467372", "type": "series", "name": "Brooklyn Nine-Nine" }
-  ]
-}
+[
+  {
+    "id": "xmas-tt0106080",
+    "type": "series",
+    "name": "The Nanny",
+    "poster": "https://images.metahub.space/poster/medium/tt0106080/img"
+  },
+  {
+    "id": "xmas-tt0108778",
+    "type": "series",
+    "name": "Friends",
+    "poster": "https://images.metahub.space/poster/medium/tt0108778/img"
+  },
+  {
+    "id": "xmas-tt0115341",
+    "type": "series",
+    "name": "Sabrina the Teenage Witch",
+    "poster": "https://images.metahub.space/poster/medium/tt0115341/img"
+  },
+  {
+    "id": "xmas-tt0157246",
+    "type": "series",
+    "name": "Will & Grace",
+    "poster": "https://images.metahub.space/poster/medium/tt0157246/img"
+  },
+  {
+    "id": "xmas-tt0212671",
+    "type": "series",
+    "name": "Malcolm in the Middle",
+    "poster": "https://images.metahub.space/poster/medium/tt0212671/img"
+  },
+  {
+    "id": "xmas-tt0238784",
+    "type": "series",
+    "name": "Gilmore Girls",
+    "poster": "https://images.metahub.space/poster/medium/tt0238784/img"
+  },
+  {
+    "id": "xmas-tt0273855",
+    "type": "series",
+    "name": "My Wife and Kids",
+    "poster": "https://images.metahub.space/poster/medium/tt0273855/img"
+  },
+  {
+    "id": "xmas-tt0285351",
+    "type": "series",
+    "name": "According to Jim",
+    "poster": "https://images.metahub.space/poster/medium/tt0285351/img"
+  },
+  {
+    "id": "xmas-tt0285403",
+    "type": "series",
+    "name": "Scrubs",
+    "poster": "https://images.metahub.space/poster/medium/tt0285403/img"
+  },
+  {
+    "id": "xmas-tt0362359",
+    "type": "series",
+    "name": "The O.C.",
+    "poster": "https://images.metahub.space/poster/medium/tt0362359/img"
+  },
+  {
+    "id": "xmas-tt0386676",
+    "type": "series",
+    "name": "The Office (US)",
+    "poster": "https://images.metahub.space/poster/medium/tt0386676/img"
+  },
+  {
+    "id": "xmas-tt0397442",
+    "type": "series",
+    "name": "Gossip Girl",
+    "poster": "https://images.metahub.space/poster/medium/tt0397442/img"
+  },
+  {
+    "id": "xmas-tt0460649",
+    "type": "series",
+    "name": "How I Met Your Mother",
+    "poster": "https://images.metahub.space/poster/medium/tt0460649/img"
+  },
+  {
+    "id": "xmas-tt0898266",
+    "type": "series",
+    "name": "The Big Bang Theory",
+    "poster": "https://images.metahub.space/poster/medium/tt0898266/img"
+  },
+  {
+    "id": "xmas-tt0934814",
+    "type": "series",
+    "name": "Chuck",
+    "poster": "https://images.metahub.space/poster/medium/tt0934814/img"
+  },
+  {
+    "id": "xmas-tt1442437",
+    "type": "series",
+    "name": "Modern Family",
+    "poster": "https://images.metahub.space/poster/medium/tt1442437/img"
+  },
+  {
+    "id": "xmas-tt1826940",
+    "type": "series",
+    "name": "New Girl",
+    "poster": "https://images.metahub.space/poster/medium/tt1826940/img"
+  },
+  {
+    "id": "xmas-tt2467372",
+    "type": "series",
+    "name": "Brooklyn Nine-Nine",
+    "poster": "https://images.metahub.space/poster/medium/tt2467372/img"
+  },
+  {
+    "id": "xmas-tt8879940",
+    "type": "series",
+    "name": "Mythic Quest",
+    "poster": "https://images.metahub.space/poster/medium/tt8879940/img"
+  }
+]

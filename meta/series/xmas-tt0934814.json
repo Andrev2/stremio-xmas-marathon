@@ -3,11 +3,11 @@
     "id": "xmas-tt0934814",
     "type": "series",
     "name": "Chuck",
-    "imdb_id": "tt0934814",
     "poster": "https://images.metahub.space/poster/medium/tt0934814/img",
+    "background": "https://images.metahub.space/background/medium/tt0934814/img",
     "videos": [
-      { "id": "xmas-tt0934814:s02e11", "season": 2, "episode": 11, "title": "Chuck vs. Santa Claus" },
-      { "id": "xmas-tt0934814:s05e07", "season": 5, "episode": 7, "title": "Chuck vs. the Santa Suit" }
+      { "id": "tt0934814:2:11", "season": 2, "episode": 11, "title": "Chuck vs. Santa Claus", "thumbnail": "https://episodes.metahub.space/tt0934814/2/11/w780.jpg" },
+      { "id": "tt0934814:5:7", "season": 5, "episode": 7, "title": "Chuck vs. the Santa Suit", "thumbnail": "https://episodes.metahub.space/tt0934814/5/7/w780.jpg" }
     ]
   }
 }

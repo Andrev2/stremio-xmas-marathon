@@ -3,13 +3,13 @@
     "id": "xmas-tt1442437",
     "type": "series",
     "name": "Modern Family",
-    "imdb_id": "tt1442437",
     "poster": "https://images.metahub.space/poster/medium/tt1442437/img",
+    "background": "https://images.metahub.space/background/medium/tt1442437/img",
     "videos": [
-      { "id": "xmas-tt1442437:s01e10", "season": 1, "episode": 10, "title": "Undeck the Halls" },
-      { "id": "xmas-tt1442437:s03e10", "season": 3, "episode": 10, "title": "Express Christmas" },
-      { "id": "xmas-tt1442437:s07e09", "season": 7, "episode": 9, "title": "White Christmas" },
-      { "id": "xmas-tt1442437:s11e09", "season": 11, "episode": 9, "title": "The Last Christmas" }
+      { "id": "tt1442437:1:10", "season": 1, "episode": 10, "title": "Undeck the Halls", "thumbnail": "https://episodes.metahub.space/tt1442437/1/10/w780.jpg" },
+      { "id": "tt1442437:3:10", "season": 3, "episode": 10, "title": "Express Christmas", "thumbnail": "https://episodes.metahub.space/tt1442437/3/10/w780.jpg" },
+      { "id": "tt1442437:7:9", "season": 7, "episode": 9, "title": "White Christmas", "thumbnail": "https://episodes.metahub.space/tt1442437/7/9/w780.jpg" },
+      { "id": "tt1442437:11:9", "season": 11, "episode": 9, "title": "The Last Christmas", "thumbnail": "https://episodes.metahub.space/tt1442437/11/9/w780.jpg" }
     ]
   }
 }

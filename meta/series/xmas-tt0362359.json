@@ -3,13 +3,13 @@
     "id": "xmas-tt0362359",
     "type": "series",
     "name": "The O.C.",
-    "imdb_id": "tt0362359",
     "poster": "https://images.metahub.space/poster/medium/tt0362359/img",
+    "background": "https://images.metahub.space/background/medium/tt0362359/img",
     "videos": [
-      { "id": "xmas-tt0362359:s01e13", "season": 1, "episode": 13, "title": "The Best Chrismukkah Ever" },
-      { "id": "xmas-tt0362359:s02e06", "season": 2, "episode": 6, "title": "The Chrismukkah That Almost Wasn't" },
-      { "id": "xmas-tt0362359:s03e10", "season": 3, "episode": 10, "title": "The Chrismukkah Bar Mitz-vahkkah" },
-      { "id": "xmas-tt0362359:s04e07", "season": 4, "episode": 7, "title": "The Chrismukk-huh?" }
+      { "id": "tt0362359:1:13", "season": 1, "episode": 13, "title": "The Best Chrismukkah Ever", "thumbnail": "https://episodes.metahub.space/tt0362359/1/13/w780.jpg" },
+      { "id": "tt0362359:2:6", "season": 2, "episode": 6, "title": "The Chrismukkah That Almost Wasn't", "thumbnail": "https://episodes.metahub.space/tt0362359/2/6/w780.jpg" },
+      { "id": "tt0362359:3:10", "season": 3, "episode": 10, "title": "The Chrismukkah Bar Mitz-vahkkah", "thumbnail": "https://episodes.metahub.space/tt0362359/3/10/w780.jpg" },
+      { "id": "tt0362359:4:7", "season": 4, "episode": 7, "title": "The Chrismukk-huh?", "thumbnail": "https://episodes.metahub.space/tt0362359/4/7/w780.jpg" }
     ]
   }
 }

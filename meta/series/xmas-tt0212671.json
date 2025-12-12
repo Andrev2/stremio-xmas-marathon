@@ -3,11 +3,11 @@
     "id": "xmas-tt0212671",
     "type": "series",
     "name": "Malcolm in the Middle",
-    "imdb_id": "tt0212671",
     "poster": "https://images.metahub.space/poster/medium/tt0212671/img",
+    "background": "https://images.metahub.space/background/medium/tt0212671/img",
     "videos": [
-      { "id": "xmas-tt0212671:s03e07", "season": 3, "episode": 7, "title": "Christmas" },
-      { "id": "xmas-tt0212671:s05e07", "season": 5, "episode": 7, "title": "Christmas Trees" }
+      { "id": "tt0212671:3:7", "season": 3, "episode": 7, "title": "Christmas", "thumbnail": "https://episodes.metahub.space/tt0212671/3/7/w780.jpg" },
+      { "id": "tt0212671:5:7", "season": 5, "episode": 7, "title": "Christmas Trees", "thumbnail": "https://episodes.metahub.space/tt0212671/5/7/w780.jpg" }
     ]
   }
 }

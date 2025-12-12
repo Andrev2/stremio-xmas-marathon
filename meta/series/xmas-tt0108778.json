@@ -3,10 +3,10 @@
     "id": "xmas-tt0108778",
     "type": "series",
     "name": "Friends",
-    "imdb_id": "tt0108778",
     "poster": "https://images.metahub.space/poster/medium/tt0108778/img",
+    "background": "https://images.metahub.space/background/medium/tt0108778/img",
     "videos": [
-      { "id": "xmas-tt0108778:s07e10", "season": 7, "episode": 10, "title": "The One with the Holiday Armadillo" }
+      { "id": "tt0108778:7:10", "season": 7, "episode": 10, "title": "The One with the Holiday Armadillo", "thumbnail": "https://episodes.metahub.space/tt0108778/7/10/w780.jpg" }
     ]
   }
 }

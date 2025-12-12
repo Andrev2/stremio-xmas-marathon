@@ -3,16 +3,16 @@
     "id": "xmas-tt0386676",
     "type": "series",
     "name": "The Office (US)",
-    "imdb_id": "tt0386676",
     "poster": "https://images.metahub.space/poster/medium/tt0386676/img",
+    "background": "https://images.metahub.space/background/medium/tt0386676/img",
     "videos": [
-      { "id": "xmas-tt0386676:s02e10", "season": 2, "episode": 10, "title": "Christmas Party" },
-      { "id": "xmas-tt0386676:s03e10", "season": 3, "episode": 10, "title": "A Benihana Christmas (Part 1 & 2)" },
-      { "id": "xmas-tt0386676:s05e11", "season": 5, "episode": 11, "title": "Moroccan Christmas" },
-      { "id": "xmas-tt0386676:s06e13", "season": 6, "episode": 13, "title": "Secret Santa" },
-      { "id": "xmas-tt0386676:s07e17", "season": 7, "episode": 17, "title": "Classy Christmas (Part 1 & 2)" },
-      { "id": "xmas-tt0386676:s08e10", "season": 8, "episode": 10, "title": "Christmas Wishes" },
-      { "id": "xmas-tt0386676:s09e09", "season": 9, "episode": 9, "title": "Dwight Christmas" }
+      { "id": "tt0386676:2:10", "season": 2, "episode": 10, "title": "Christmas Party", "thumbnail": "https://episodes.metahub.space/tt0386676/2/10/w780.jpg" },
+      { "id": "tt0386676:3:10", "season": 3, "episode": 10, "title": "A Benihana Christmas (Part 1 & 2)", "thumbnail": "https://episodes.metahub.space/tt0386676/3/10/w780.jpg" },
+      { "id": "tt0386676:5:11", "season": 5, "episode": 11, "title": "Moroccan Christmas", "thumbnail": "https://episodes.metahub.space/tt0386676/5/11/w780.jpg" },
+      { "id": "tt0386676:6:13", "season": 6, "episode": 13, "title": "Secret Santa", "thumbnail": "https://episodes.metahub.space/tt0386676/6/13/w780.jpg" },
+      { "id": "tt0386676:7:17", "season": 7, "episode": 17, "title": "Classy Christmas (Part 1 & 2)", "thumbnail": "https://episodes.metahub.space/tt0386676/7/17/w780.jpg" },
+      { "id": "tt0386676:8:10", "season": 8, "episode": 10, "title": "Christmas Wishes", "thumbnail": "https://episodes.metahub.space/tt0386676/8/10/w780.jpg" },
+      { "id": "tt0386676:9:9", "season": 9, "episode": 9, "title": "Dwight Christmas", "thumbnail": "https://episodes.metahub.space/tt0386676/9/9/w780.jpg" }
     ]
   }
 }

@@ -3,13 +3,13 @@
     "id": "xmas-tt0157246",
     "type": "series",
     "name": "Will & Grace",
-    "imdb_id": "tt0157246",
     "poster": "https://images.metahub.space/poster/medium/tt0157246/img",
+    "background": "https://images.metahub.space/background/medium/tt0157246/img",
     "videos": [
-      { "id": "xmas-tt0157246:s04e12", "season": 4, "episode": 12, "title": "Jingle Balls" },
-      { "id": "xmas-tt0157246:s05e11", "season": 5, "episode": 11, "title": "All About Christmas Eve" },
-      { "id": "xmas-tt0157246:s07e10", "season": 7, "episode": 10, "title": "Christmas Break" },
-      { "id": "xmas-tt0157246:s08e09", "season": 8, "episode": 9, "title": "A Little Christmas Queer" }
+      { "id": "tt0157246:4:12", "season": 4, "episode": 12, "title": "Jingle Balls", "thumbnail": "https://episodes.metahub.space/tt0157246/4/12/w780.jpg" },
+      { "id": "tt0157246:5:11", "season": 5, "episode": 11, "title": "All About Christmas Eve", "thumbnail": "https://episodes.metahub.space/tt0157246/5/11/w780.jpg" },
+      { "id": "tt0157246:7:10", "season": 7, "episode": 10, "title": "Christmas Break", "thumbnail": "https://episodes.metahub.space/tt0157246/7/10/w780.jpg" },
+      { "id": "tt0157246:8:9", "season": 8, "episode": 9, "title": "A Little Christmas Queer", "thumbnail": "https://episodes.metahub.space/tt0157246/8/9/w780.jpg" }
     ]
   }
 }

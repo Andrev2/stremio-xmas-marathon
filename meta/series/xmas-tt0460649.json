@@ -3,13 +3,13 @@
     "id": "xmas-tt0460649",
     "type": "series",
     "name": "How I Met Your Mother",
-    "imdb_id": "tt0460649",
     "poster": "https://images.metahub.space/poster/medium/tt0460649/img",
+    "background": "https://images.metahub.space/background/medium/tt0460649/img",
     "videos": [
-      { "id": "xmas-tt0460649:s02e11", "season": 2, "episode": 11, "title": "How Lily Stole Christmas" },
-      { "id": "xmas-tt0460649:s07e12", "season": 7, "episode": 12, "title": "Symphony of Illumination" },
-      { "id": "xmas-tt0460649:s08e10", "season": 8, "episode": 10, "title": "The Over-Correction" },
-      { "id": "xmas-tt0460649:s08e11", "season": 8, "episode": 11, "title": "The Final Page (Part 1)" }
+      { "id": "tt0460649:2:11", "season": 2, "episode": 11, "title": "How Lily Stole Christmas", "thumbnail": "https://episodes.metahub.space/tt0460649/2/11/w780.jpg" },
+      { "id": "tt0460649:7:12", "season": 7, "episode": 12, "title": "Symphony of Illumination", "thumbnail": "https://episodes.metahub.space/tt0460649/7/12/w780.jpg" },
+      { "id": "tt0460649:8:10", "season": 8, "episode": 10, "title": "The Over-Correction", "thumbnail": "https://episodes.metahub.space/tt0460649/8/10/w780.jpg" },
+      { "id": "tt0460649:8:11", "season": 8, "episode": 11, "title": "The Final Page (Part 1)", "thumbnail": "https://episodes.metahub.space/tt0460649/8/11/w780.jpg" }
     ]
   }
 }

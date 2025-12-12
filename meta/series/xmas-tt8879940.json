@@ -3,11 +3,11 @@
     "id": "xmas-tt8879940",
     "type": "series",
     "name": "Mythic Quest",
-    "imdb_id": "tt8879940",
     "poster": "https://images.metahub.space/poster/medium/tt8879940/img",
+    "background": "https://images.metahub.space/background/medium/tt8879940/img",
     "videos": [
-      { "id": "xmas-tt8879940:special1", "season": 0, "episode": 1, "title": "Everlight" },
-      { "id": "xmas-tt8879940:special2", "season": 0, "episode": 2, "title": "Merry Mythic Questmas" }
+      { "id": "tt8879940:0:1", "season": 0, "episode": 1, "title": "Everlight", "thumbnail": "https://episodes.metahub.space/tt8879940/0/1/w780.jpg" },
+      { "id": "tt8879940:0:2", "season": 0, "episode": 2, "title": "Merry Mythic Questmas", "thumbnail": "https://episodes.metahub.space/tt8879940/0/2/w780.jpg" }
     ]
   }
 }

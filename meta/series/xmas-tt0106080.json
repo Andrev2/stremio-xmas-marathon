@@ -3,11 +3,11 @@
     "id": "xmas-tt0106080",
     "type": "series",
     "name": "The Nanny",
-    "imdb_id": "tt0106080",
     "poster": "https://images.metahub.space/poster/medium/tt0106080/img",
+    "background": "https://images.metahub.space/background/medium/tt0106080/img",
     "videos": [
-      { "id": "xmas-tt0106080:s01e08", "season": 1, "episode": 8, "title": "Christmas Episode" },
-      { "id": "xmas-tt0106080:s03e10", "season": 3, "episode": 10, "title": "The Christmas Show" }
+      { "id": "tt0106080:1:8", "season": 1, "episode": 8, "title": "Christmas Episode", "thumbnail": "https://episodes.metahub.space/tt0106080/1/8/w780.jpg" },
+      { "id": "tt0106080:3:10", "season": 3, "episode": 10, "title": "The Christmas Show", "thumbnail": "https://episodes.metahub.space/tt0106080/3/10/w780.jpg" }
     ]
   }
 }
