@@ -14,6 +14,7 @@
       "name": "Christmas Sitcom Marathon"
     }
   ],
+  "endpoint": "https://raw.githubusercontent.com/Andrev2/stremio-xmas-marathon/main",
   "stremioAddonsConfig": {
     "issuer": "https://stremio-addons.net",
     "signature": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..2YAE5t_RBhkdIenzUETsrA.LUjJaDIkah7jKbWFnFYrY2c2fNfEpd5B-ILUsMPrqJM4OER94VMArF1vL4Ia_0RCy2QKrR9PPzStdB_v-e5sY-BpNImj5VAEezpHrlBKttBoDQjG_IzbQVj3nN9FDIpT.Gjq3-_L-L5VvJJNf0YMM8g"
